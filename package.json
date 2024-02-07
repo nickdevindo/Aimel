@@ -9,7 +9,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "node awok.js"
+    "test": "node test.js"
   },
   "keywords": [
     "amelia",
