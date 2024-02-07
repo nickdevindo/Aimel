@@ -1,0 +1,29 @@
+{
+  "name": "chats-amelia",
+  "version": "0.0.4",
+  "description": "Chats amelia adalah modul yang memungkinkan Anda berinteraksi dengan bot amelia untuk percakapan yang menyenangkan.",
+  "main": "lib/main.js",
+  "author": "@nickdev",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "amelia",
+    "chats-amelia"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srart24/chats-simsimi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/srart24/chats-simsimi/issues"
+  },
+  "homepage": "https://github.com/srart24/chats-simsimi#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
