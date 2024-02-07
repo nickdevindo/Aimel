@@ -9,7 +9,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "node test.js"
+    "test": "node awok.js"
   },
   "keywords": [
     "amelia",
@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/srart24/chats-simsimi.git"
+    "url": "git+https://github.com/nickdevindo/Aimel.git"
   },
   "bugs": {
-    "url": "https://github.com/srart24/chats-simsimi/issues"
+    "url": "https://github.com/nickdevindo/Aimel/issues"
   },
-  "homepage": "https://github.com/srart24/chats-simsimi#readme",
+  "homepage": "https://github.com/nickdevindo/Aimel#readme",
   "dependencies": {
     "axios": "^1.4.0"
   }
